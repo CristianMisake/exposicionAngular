@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular';
+  descripcion = 'Proyecto creado un dia de un mes de un año';
 }
